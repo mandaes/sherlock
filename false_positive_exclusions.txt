@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
 Archive.org
@@ -11,9 +10,10 @@ Envato Forum
 Giphy
 Hashnode
 Hubski
+Itch.io
+LessWrong
 Motherless
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -29,6 +29,7 @@ TryHackMe
 Velomania
 Weblate
 YandexMusic
+authorSTREAM
 dailykos
 igromania
 interpals
